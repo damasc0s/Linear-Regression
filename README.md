@@ -1,2 +1,2 @@
 # Linear-Regression
-Models built using Linear Regression
+Models built using Regression Models
