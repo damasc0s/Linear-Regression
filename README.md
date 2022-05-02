@@ -1,1 +1,1 @@
-Models built using Regression Models
+Models built using Regression Algorithms
